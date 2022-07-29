@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Ravidas</h1>
 <h3 align="center">ⱮⱭCɦѲƦITY WɦƐɳ YѲU ƦƐⱭʆIZƐ wiɳɛʀ wiɳɛʀ cɦickɛɳ ɗiɳɳɛʀ<br>iร ɳѳt ɑ Ʀɛɑʆ Տucɛรร😈😈😈 CreatedB Ɗɛɛ147❤️</h3>
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [Mjvirus.com](https://mjvirusofficial.github.io/Mjvirus.com-desktop_site/)
 
 - 🌱 I’m currently learning **JavaScript, DSA, Opps**
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://fb.com/#mjvirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#mjvirus" height="30" width="40" /></a>
 <a href="https://instagram.com/#mjvirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#mjvirus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/#mjvirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="#mjvirus" height="30" width="40" /></a>
+<a href="https://www.youtube.com/hashtag/mjvirus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="#mjvirus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
