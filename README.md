@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Ravidas</h1>
 <h3 align="center">ⱮⱭCɦѲƦITY WɦƐɳ YѲU ƦƐⱭʆIZƐ wiɳɛʀ wiɳɛʀ cɦickɛɳ ɗiɳɳɛʀ<br>iร ɳѳt ɑ Ʀɛɑʆ Տucɛรร😈😈😈 CreatedB Ɗɛɛ147❤️</h3>
 
-<img align="right" alt="Coding" width="550" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [Mjvirus.com](https://mjvirusofficial.github.io/Mjvirus.com-desktop_site/)
 
 - 🌱 I’m currently learning **JavaScript, DSA, Opps**
