@@ -13,7 +13,7 @@ Passionate about building modern, responsive & user-friendly web applications �
   alt="Coding" 
   width="400"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-  style="border-radius:20px;"
+  style="border-radius:20px; margin-left:30px; margin-top:15px;"
 />
 
 ---
@@ -25,17 +25,13 @@ Passionate about building modern, responsive & user-friendly web applications �
 - 💡 Interested in **Frontend & Full Stack Development**
 - 🤝 Looking to collaborate on **Open Source & Real World Projects**
 - 💬 Ask me about **React.js, JavaScript, Tailwind CSS**
-- 📫 Reach me at: **deepakravidas565@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into real web apps 🚀**
 
 ---
 
-### 🌐 Portfolio & Resume
+### 🌐 Portfolio
 
 - 🌍 Portfolio: <a href="https://mjvirus.netlify.app/">MjVirus Portfolio</a>
-
-- 📄 Resume:
-<a href="https://drive.google.com/file/d/1aeymyN7hCifkLl7Mhbfjom8OOAywMOTX/view?usp=drivesdk">View Resume</a>
 
 ---
 
